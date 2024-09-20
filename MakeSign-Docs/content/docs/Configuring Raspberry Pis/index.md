@@ -1,5 +1,8 @@
-title: "MakeSign Docs"
-date: 2024-09-20
+
+---
+title: 'Configuration of Raspberry Pi'
+date: 2019-02-11T19:27:37+10:00
+weight: 6
 ---
 
 # B2 - Digital Signage for the HTW Makerspace
