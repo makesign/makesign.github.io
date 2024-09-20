@@ -1,7 +1,7 @@
-
 ---
-title: 'Configuring-screens'
+title: 'Configuring-Screens'
 date: 2024-09-20
+weight: 4
 ---
 
 ## Steps
