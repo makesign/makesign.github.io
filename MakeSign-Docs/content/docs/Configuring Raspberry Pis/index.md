@@ -1,11 +1,10 @@
----
 title: "MakeSign Docs"
 date: 2024-09-20
 ---
 
 # B2 - Digital Signage for the HTW Makerspace
 
-![Makesign_Logo.png](Makesign_Logo.png)
+![Makesign_Logo.png](/Images/Makesign_Logo.png)
 
 ---
 
@@ -90,13 +89,13 @@ Postcondition: The changed slide is now displayed on the monitor for 30 seconds 
 
 The final product is MakeSign, a website that allows the user to upload slides, add them to slideshows with different lengths and expiration dates and finally display them on different screens. It also displays the dashboard of the booking system.
 
-![*Homepage of MakeSign*](Homepage.png)
+![*Homepage of MakeSign*](/Images/Homepage.png)
 
 *Homepage of MakeSign*
 
 Here we see the homepage, or the root of MakeSign. The application itself can be used without being logged in. You can view the slides, slideshows and screens, but you cannot edit or create them. To be able to use the app fully, you have to log in using the “Sign In” button.
 
-![*Create Page of Slides*](Slides_Createpage.png)
+![*Create Page of Slides*](/Images/Slides_Createpage.png)
 
 *Create Page of Slides*
 
@@ -104,13 +103,13 @@ After you have registered, you can upload slides. These can be images (JPG, PNG 
 
 You can then take a closer look at the slide in 16:9 format. After simply clicking on the image, you can see the original format of the image via the Bootstrap Modal function. To merge the individual slides, you must first create a slideshow and select the individual slides.
 
-![*Create Page of Slideshows*](Slideshows_Createpage.png)
+![*Create Page of Slideshows*](/Images/Slideshows_Createpage.png)
 
 *Create Page of Slideshows*
 
 The slides are selected using a simple checkbox system where you click on the slides themselves and they are then darkened. The checkbox design looks different from Showtime. Here we received feedback that the selected checkboxes were not easy to recognize. Once you have selected the title and slides, you are taken directly to the edit page.
 
-![*Edit Page of Slideshows*](Slideshows_Editpage.png)
+![*Edit Page of Slideshows*](/Images/Slideshows_Editpage.png)
 
 *Edit Page of Slideshows*
 
@@ -126,7 +125,7 @@ On the show page of Slideshow, the slides are displayed with their name, duratio
 
 The finished slideshows can be selected in the Screens section so that they can be displayed with the Raspberry Pi. The Screens section is a new function that we added after Showtime, after consultation with Prof. Dr. Barne Kleinen.
 
-![*Edit Page of Screens*](Screens_Editpage.png)
+![*Edit Page of Screens*](/Images/Screens_Editpage.png)
 
 *Edit Page of Screens*
 
@@ -142,7 +141,7 @@ In cases where a slideshow is edited while it is displayed on the Raspberry Pi, 
   }, 3600000);
 ```
 
-![*Dashboard Display*](Dashboard.png)
+![*Dashboard Display*](/Images/Dashboard.png)
 
 *Dashboard Display*
 
