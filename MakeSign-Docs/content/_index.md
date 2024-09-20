@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
+title: 'MakeSign'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+MakeSign is a free and open source Digital Signage Solution created by the HTW-Berlin.
