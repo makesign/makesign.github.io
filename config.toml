@@ -43,8 +43,8 @@ summaryLength = 30
     meta_og_description = "MakeSign is a University Project offering a simple Digital Signage solution"
 
   [params.logo]
-      mobile = "/images/MakeSign_Logo.svg"
-      standard  = "/images/MakeSign_Logo.svg"
+      mobile = "/images/Makesign.ico"
+      standard  = "/images/Makesign.ico"
 
   [params.footer]
     copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
