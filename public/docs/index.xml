@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on MakeSign</title>
+    <link>/docs/</link>
+    <description>Recent content in Overview on MakeSign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MakeSign Task &amp; Use-Cases</title>
+      <link>/docs/configuring-makesign/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/configuring-makesign/</guid>
+      <description>2. Task &amp;amp; Use-Cases The requirements defined by the Makerspace and IDiA were a program that would make it as easy as possible to upload images and short videos, which would then be displayed on two monitors in the Makerspace. The monitors should also display the utilization of the machines from the booking system. The focus here was on ease of use.
+Makerspace&amp;rsquo;s previous solution worked via Raspberry Pis, but it often went out and showed a black screen.</description>
+    </item>
+    
+    <item>
+      <title>MakeSign Final Product</title>
+      <link>/docs/about-makesign/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/about-makesign/</guid>
+      <description>3. Final Product The final product is MakeSign, a website that allows the user to upload slides, add them to slideshows with different lengths and expiration dates, and finally display them on different screens. It also displays the dashboard of the booking system.
+Homepage of MakeSign
+Here we see the homepage, or the root of MakeSign. The application itself can be used without being logged in. You can view the slides, slideshows, and screens, but you cannot edit or create them.</description>
+    </item>
+    
+    <item>
+      <title>Configuring-screens</title>
+      <link>/docs/configuring-screens/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/configuring-screens/</guid>
+      <description>Steps  First, decide if you want to run the digital signage screen via Wi-Fi (Eduroam/Easyroam) or Ethernet. If you choose to run it via Wi-Fi, the setup will be a little more difficult. If you want to set up the screen using Wi-Fi, follow Setup Using Wi-Fi (Eduroam/Easyroam). If you want to set up the screen using Ethernet, follow this guide.  If you can connect the screen via Ethernet, you save yourself the hassle of installing a custom GUI and managing the Easyroam certificates.</description>
+    </item>
+    
+  </channel>
+</rss>
