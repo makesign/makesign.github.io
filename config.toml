@@ -31,7 +31,7 @@ summaryLength = 30
   homepage_button_link = '/docs'
   homepage_button_text = 'Read The Docs'
   homepage_intro = 'MakeSign is a University Project offering a simple Digital Signage solution.'
-  homepage_image = '/images/makesign_logo.jpg'
+  homepage_image = '/images/Makesign(1).png'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
