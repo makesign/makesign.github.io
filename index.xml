@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MakeSign</title>
+    <link>/</link>
+    <description>Recent content on MakeSign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuring-Makesign</title>
+      <link>/docs/configuring-makesign/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/configuring-makesign/</guid>
+      <description>MakeSign Configuration MakeSign is written in Ruby on Rails, which is why Ruby on Rails needs to be installed on your device.
+The following applications need to be installed to use MakeSign:
+ Install Node.js, with at least version 22.9.0 Install Yarn, with the current version Install Ruby, at least ruby 3.3.3 Install Rails, at least Rails 7.1.4  For inline commands we
+After installing them, you can git clone the Repository.</description>
+    </item>
+    
+    <item>
+      <title>The Web-App</title>
+      <link>/docs/about-makesign/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/about-makesign/</guid>
+      <description>MakeSign homepage Create a new slide Create a new slideshow Edit a slideshow Manage your screens </description>
+    </item>
+    
+    <item>
+      <title>Configuring-screens</title>
+      <link>/docs/configuring-screens/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/configuring-screens/</guid>
+      <description>Steps  First, decide if you want to run the digital signage screen via Wi-Fi (Eduroam/Easyroam) or Ethernet. If you choose to run it via Wi-Fi, the setup will be a little more difficult. If you want to set up the screen using Wi-Fi, follow Setup Using Wi-Fi (Eduroam/Easyroam). If you want to set up the screen using Ethernet, follow this guide.  If you can connect the screen via Ethernet, you save yourself the hassle of installing a custom GUI and managing the Easyroam certificates.</description>
+    </item>
+    
+  </channel>
+</rss>
