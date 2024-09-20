@@ -1,3 +1,8 @@
+---
+title: "MakeSign Docs"
+date: 2024-09-20
+---
+
 # B2 - Digital Signage for the HTW Makerspace
 
 ![Makesign_Logo.png](Makesign_Logo.png)
