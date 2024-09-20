@@ -40,7 +40,6 @@ summaryLength = 30
     meta_description = "MakeSign is a University Project offering a simple Digital Signage solution."
     meta_og_title = "MakeSign"
     meta_og_type = "website"
-
     meta_og_description = "MakeSign is a University Project offering a simple Digital Signage solution"
 
   [params.logo]
